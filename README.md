@@ -6,7 +6,7 @@ The goal is to demonstrate the ability to evaluate, adapt, and improve language 
 
 ---
 
-## 🧩 Focus Areas
+## Focus Areas
 
 ### 1. UI Localization (Real Product Interfaces)
 Translation and adaptation of user interface text from English to Igbo while preserving clarity, tone, and usability in real app environments.
@@ -22,7 +22,7 @@ Analysis and refinement of prompts used to generate AI responses in applied cont
 
 ---
 
-## 🧱 Repository Structure
+## Repository Structure
 
 Each sample follows a consistent format:
 - `source.md` → original context or system reference
@@ -32,7 +32,7 @@ Each sample follows a consistent format:
 
 ---
 
-## 🛠️ Example Systems Referenced
+## Example Systems Referenced
 
 Samples are grounded in real-world or widely used product contexts such as:
 - WhatsApp Business messaging flows
@@ -46,7 +46,7 @@ These references are used strictly for contextual realism in language evaluation
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - English–Igbo localization with cultural accuracy
 - Linguistic QA and structured evaluation
