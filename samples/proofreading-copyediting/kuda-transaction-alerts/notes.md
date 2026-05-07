@@ -1,0 +1,3 @@
+- Reordered sentence for clarity and immediacy.
+- Standardized currency formatting to ₦5,000 for fintech UX consistency.
+- Removed redundant wording to improve scan readability.
