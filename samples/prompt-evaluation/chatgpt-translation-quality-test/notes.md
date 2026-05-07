@@ -1,0 +1,4 @@
+- Added context (UI translation)
+- Defined quality expectations (natural, culturally appropriate)
+- Removed ambiguity in instruction
+- Improved suitability for production-level translation tasks
