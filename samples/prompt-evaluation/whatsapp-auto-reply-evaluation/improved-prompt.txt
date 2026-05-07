@@ -1,0 +1,1 @@
+Write a short WhatsApp Business auto-reply for customers contacting the business outside working hours. The reply should be polite, professional, and reassuring. It should thank the customer, state that the business is currently unavailable, and say when they can expect a response.

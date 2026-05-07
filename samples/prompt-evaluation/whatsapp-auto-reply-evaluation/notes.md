@@ -1,0 +1,4 @@
+- The improved prompt defines channel, timing, tone, and outcome.
+- It avoids generic wording that would produce weak responses.
+- It is specific enough to test whether the model can generate usable business communication.
+- This improves evaluation quality and makes output easier to judge.
