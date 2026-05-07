@@ -1,0 +1,3 @@
+- Maintained polite tone suitable for business-customer interaction.
+- “Unavailable” localized as “anọghị ugbu a” to preserve clarity in Igbo conversational context.
+- Emphasis placed on reassurance to maintain customer trust.
