@@ -1,0 +1,2 @@
+- Removed unnecessary apology phrasing to align with standard UX error tone.
+- Simplified sentence structure for faster user comprehension.
