@@ -1,0 +1,4 @@
+- The weak prompt is too vague to produce consistent output.
+- The improved prompt adds role, tone, context, and task.
+- Added explicit response requirements to reduce ambiguity.
+- This makes the prompt suitable for evaluating structured support responses.

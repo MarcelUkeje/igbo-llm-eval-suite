@@ -1,0 +1,1 @@
+Context: Prompt used to test AI support responses for an e-commerce store.
