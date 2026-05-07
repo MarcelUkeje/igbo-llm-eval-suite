@@ -1,0 +1,3 @@
+- “Limited stock” translated as “Ngwaahịa dị ntakịrị ugbu a” to reflect scarcity without ambiguity.
+- “Order now” adapted to “Zụọ ugbu a” for action clarity.
+- “Free delivery” localized as “Mbupu n'efu” consistent with e-commerce UX terminology in Igbo contexts.
