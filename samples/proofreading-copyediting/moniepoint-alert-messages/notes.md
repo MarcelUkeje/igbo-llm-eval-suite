@@ -1,0 +1,3 @@
+- Standardized currency formatting for readability.
+- Reordered the sentence for smoother fintech UX style.
+- Preserved meaning while improving clarity and consistency.
